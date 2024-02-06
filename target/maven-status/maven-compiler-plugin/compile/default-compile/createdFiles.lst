@@ -1,0 +1,6 @@
+com/example/demo/entity/UserLogin.class
+com/example/demo/repository/UserRepository.class
+com/example/demo/service/LoginService.class
+com/example/demo/controller/LoginController.class
+com/example/demo/Demo21Application.class
+com/example/demo/impl/LoginServiceimpl.class
